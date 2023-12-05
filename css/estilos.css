@@ -1,6 +1,6 @@
 :root {
   --cinza: #eae6e6;
-  --vermelha: #f50707;
+  --vermelha: #000000;
   --vermelha-escura: #af303f;
   --branca: #fff;
   --luz: rgb(229, 255, 0);
@@ -8,7 +8,7 @@
 
 body {
   align-items: center;
-  background: linear-gradient(45deg, #ff0099 0%,#fff3f9 100%);
+  background: linear-gradient(45deg, #ff0099 0%,s#fff3f9 100%);
   display: flex;
   justify-content: center;
   flex-direction: column;
